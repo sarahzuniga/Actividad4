@@ -12,6 +12,7 @@ Exercises
 """
 
 from random import choice, random
+
 from turtle import up
 from turtle import goto
 from turtle import down
@@ -29,6 +30,7 @@ from turtle import tracer
 from turtle import listen
 from turtle import onkey
 from turtle import done
+
 
 from freegames import vector
 
